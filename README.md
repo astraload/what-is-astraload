@@ -1,6 +1,6 @@
 # what-is-astraload
 
-Astraload is a company that provides streamlined solutions for Meteor-based projects
+Astraload – Streamlined approach for exhausting issues of Meteor-based projects: performance, migrations, security, testing, and more
 
 List of our services:
 
