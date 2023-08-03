@@ -1,6 +1,6 @@
 # what-is-astraload
 
-Astraload - enjoy watching exhausting issues of your Meteor-based projects being systematically addressed by experienced engineers: performance, migrations, hosting, security, testing, and more
+Astraload - delegate exhausting issues of your Meteor-based project: performance, migrations, hosting, security, testing
 
 List of our services:
 
